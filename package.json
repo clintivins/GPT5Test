@@ -4,6 +4,7 @@
   "workspaces": [
     "node-ts",
     "nextjs",
-    "vite-react-ts"
+    "vite-react-ts",
+    "ai-news-digest"
   ]
 }
