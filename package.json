@@ -1,0 +1,9 @@
+{
+  "name": "gpt5test-monorepo",
+  "private": true,
+  "workspaces": [
+    "node-ts",
+    "nextjs",
+    "vite-react-ts"
+  ]
+}
